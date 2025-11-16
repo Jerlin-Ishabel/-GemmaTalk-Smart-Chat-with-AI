@@ -1,7 +1,7 @@
 langchain
-langchain-core
-langchain-community
-python-dotenv
+langchain_core
+langchain_community
+python_dotenv
 streamlit
 langserve
 ollama
