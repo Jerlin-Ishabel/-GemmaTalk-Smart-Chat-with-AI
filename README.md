@@ -16,7 +16,8 @@ A smart, interactive chatbot built with **LangChain** and **Ollama Gemma 3B**, d
 
 ## Demo
 
-![Chatbot Screenshot]("C:\Users\jjerl\OneDrive\Pictures\Screenshots\Screenshot 2025-11-16 213935.png")  
+<img width="1919" height="1073" alt="Screenshot 2025-11-16 213935" src="https://github.com/user-attachments/assets/3377faf0-b30f-4021-8144-eff24a2be22e" />
+
 *Replace with your own screenshot showing the chat interface.*
 
 ---
